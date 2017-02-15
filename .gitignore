@@ -1,0 +1,5 @@
+# Useless with gh-pages
+Gemfile.lock
+
+# generated site
+_site/
